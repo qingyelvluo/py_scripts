@@ -5,6 +5,7 @@ def func():
     """
     This is English notation, first line.
     这是第中文注释，第二行。
+    Just test it.
     """
     print("hello world")
     
